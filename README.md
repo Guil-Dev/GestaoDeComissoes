@@ -120,3 +120,5 @@ Os ficheiros de dados ficam armazenados na pasta `dados/` na raiz do projeto e u
 * **Polimorfismo:** Sobrescrita e implementação específica do método `calcularComissao` nas subclasses.
 * **Sobrecarga:** Construtores com diferentes assinaturas para flexibilidade de instanciação.
 * **Arquitetura em Camadas:** Organização modular dividida em entidades de domínio (`model`), lógica de infraestrutura e leitura (`service`) e suíte de execução (`teste`).
+
+---
