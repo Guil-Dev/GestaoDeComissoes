@@ -1,0 +1,6 @@
+idCategoria;nome;percentualVendedor;percentualRepresentante
+201;Eletrônicos;6.5;2.5
+202;Celulares;8.0;3.0
+203;Informática;7.0;2.0
+204;Áudio e Som;5.5;1.8
+205;Acessórios Digitais;4.5;1.5

@@ -1,0 +1,54 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CategoriaTeste",
+            "request": "launch",
+            "mainClass": "br.edu.ifsp.xyz.teste.CategoriaTeste",
+            "projectName": "GestaoDeComissoes_43c12d97"
+        },
+        {
+            "type": "java",
+            "name": "PedidoTeste",
+            "request": "launch",
+            "mainClass": "br.edu.ifsp.xyz.teste.PedidoTeste",
+            "projectName": "GestaoDeComissoes_43c12d97"
+        },
+        {
+            "type": "java",
+            "name": "ProdutoTeste",
+            "request": "launch",
+            "mainClass": "br.edu.ifsp.xyz.teste.ProdutoTeste",
+            "projectName": "GestaoDeComissoes_43c12d97"
+        },
+        {
+            "type": "java",
+            "name": "ComissaoTeste",
+            "request": "launch",
+            "mainClass": "br.edu.ifsp.xyz.teste.ComissaoTeste",
+            "projectName": "GestaoDeComissoes_43c12d97"
+        },
+        {
+            "type": "java",
+            "name": "VendedorTeste",
+            "request": "launch",
+            "mainClass": "br.edu.ifsp.xyz.teste.VendedorTeste",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Gestao de Comissoes - Relatorio",
+            "request": "launch",
+            "mainClass": "br.edu.ifsp.xyz.leitor.ComissaoTeste",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Gestao de Comissoes - Teste de pedido",
+            "request": "launch",
+            "mainClass": "br.edu.ifsp.xyz.leitor.PedidoTeste",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+# Java compilado
+*.class
+out/
+bin/
+target/
+
+# VS Code: manter launch.json versionado, ignorar preferências locais
+.vscode/settings.json
+.vscode/tasks.json
+
+# Sistemas operacionais e editores
+.DS_Store
+Thumbs.db
+*.swp
+*~

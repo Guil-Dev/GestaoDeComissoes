@@ -1,0 +1,6 @@
+idVendedor;cpf;nome
+101;38472915006;Marina Costa
+102;52718463091;Caio Martins
+103;69325184072;Bianca Ribeiro
+104;14863927500;Lucas Ferreira
+105;80541729633;Isabela Nunes
