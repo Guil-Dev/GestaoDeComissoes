@@ -120,16 +120,3 @@ Os ficheiros de dados ficam armazenados na pasta `dados/` na raiz do projeto e u
 * **Polimorfismo:** Sobrescrita e implementação específica do método `calcularComissao` nas subclasses.
 * **Sobrecarga:** Construtores com diferentes assinaturas para flexibilidade de instanciação.
 * **Arquitetura em Camadas:** Organização modular dividida em entidades de domínio (`model`), lógica de infraestrutura e leitura (`service`) e suíte de execução (`teste`).
-
-```
-
----
-
-Para atualizar no teu GitHub, basta substituir o conteúdo no ficheiro `README.md` do teu projeto, guardar (`Ctrl + S`) e executar no terminal:
-
-```bash
-git add README.md
-git commit -m "docs: atualiza README com nova estrutura de pacotes e caminhos"
-git push origin main
-
-```
